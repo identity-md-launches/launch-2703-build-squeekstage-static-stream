@@ -1,0 +1,7 @@
+node_modules/
+.cache/
+.vite/
+.npm/
+test/scratch/
+.playwright-mcp/
+*.tsbuildinfo
